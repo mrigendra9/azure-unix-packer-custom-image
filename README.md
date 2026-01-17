@@ -1,2 +1,2 @@
-# packer-image-ubantu
+# azure-unix-packer-custom-image
 iamge 
